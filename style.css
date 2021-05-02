@@ -1,0 +1,36 @@
+body{
+  background: orange;
+  color: white;
+  font-family: 'Arial';
+  font-size: 16px;
+}
+#container{
+  width: 60%;
+  background: blue;
+  margin:20px auto;
+  padding:25px;
+}
+header{
+  text-align: center;
+  border-bottom: white dashed 1px;
+}
+header p{
+  padding: 10px;
+  margin-top: 5px;
+  color: white;
+}
+section{
+  min-height: 400px;
+}
+input[type="submit"]{
+  border: 1px;
+}
+#results h3{
+  background: #f06226
+  padding: 10px;
+  margin: 10px
+}
+#results span{
+  color:black;
+  font-weigth:bold;
+}
